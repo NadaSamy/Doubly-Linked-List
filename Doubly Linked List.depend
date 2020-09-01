@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588355606 source:d:\college\term 4\data structure 1\doubly linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
